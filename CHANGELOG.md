@@ -1,3 +1,3 @@
-# CHANGELOG
+# CHANGELOG
 ## v1.0.0
-Initial release for [package-name].
+Initial release for Simple-Pool.
